@@ -22,7 +22,7 @@
 
 I'm a student who ended up somewhere between the social sciences and data science, and I like it there. Most of my time goes into digging through data, wrapping my head around statistics, and trying to connect that with bigger questions in political science, economics, and even sustainability. Outside of that I'm working in product at a Mannheim-based startup, still figuring things out one project at a time. ;)
 
-Always up for a chat about stats & data, or why your dashboard looks bad.
+Always up for a chat about stats & data, or why most dashboards are useless.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/maximilian-birkle-a7b808233">
