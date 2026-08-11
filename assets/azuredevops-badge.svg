@@ -1,0 +1,16 @@
+<svg width="150" height="28" xmlns="http://www.w3.org/2000/svg">
+<rect width="150" height="28" fill="#ffffff"/>
+<g transform="translate(6,4)">
+<path d="M34 6.375V27.0725L25.5 34.0425L12.325 29.24V34L4.86625 24.2462L26.605 25.9463V7.31L34 6.375ZM26.7538 7.41625L14.5562 0V4.86625L3.3575 8.16L0 12.4737V22.27L4.8025 24.395V11.8363L26.7538 7.41625Z" fill="url(#paint0_linear_97_648)" transform="scale(0.588)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_97_648" x1="17" y1="33.9362" x2="17" y2="0.0637506" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0078D4"/>
+<stop offset="0.16" stop-color="#1380DA"/>
+<stop offset="0.53" stop-color="#3C91E5"/>
+<stop offset="0.82" stop-color="#559CEC"/>
+<stop offset="1" stop-color="#5EA0EF"/>
+</linearGradient>
+</defs>
+<text x="34" y="19" font-family="Verdana, Geneva, DejaVu Sans, sans-serif" font-weight="bold" font-size="12" fill="#0078D4" letter-spacing="0.5">AZURE DEVOPS</text>
+</svg>
