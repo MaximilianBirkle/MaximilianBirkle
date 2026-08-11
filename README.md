@@ -1,4 +1,4 @@
-<h1 align="left">Hey, I'm Maximilian 👋</h1>
+<h1 align="left">Hey, I'm Max 👋</h1>
 
 <p align="left">
   Based in Mannheim, Germany 🇩🇪 — into data, politics, and figuring out how the two connect.
@@ -11,7 +11,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SPSS-0530AD?style=for-the-badge" alt="SPSS"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio"/>
+  <img src="https://img.shields.io/badge/Stata-1A2B4C?style=for-the-badge" alt="Stata"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
