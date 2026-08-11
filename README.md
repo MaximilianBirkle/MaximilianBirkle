@@ -1,7 +1,7 @@
 <h1 align="left">Hey, I'm Maximilian 👋</h1>
 
 <p align="left">
-  Based in Mannheim, Germany 🇩🇪 — into data, politics, and figuring out how the two connect.
+  Based in Mannheim, Germany  — into data, politics, and figuring out how the two connect.
 </p>
 
 ### 🛠️ Tech Stack
