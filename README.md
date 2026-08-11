@@ -24,6 +24,7 @@ I'm a student who ended up somewhere between the social sciences and data scienc
 
 Always up for a chat about stats & data, or why most dashboards are useless.
 
+
 <p align="left">
   <a href="https://www.linkedin.com/in/maximilian-birkle-a7b808233">
     <img src="assets/linkedin-badge.svg" height="28" alt="LinkedIn"/>
