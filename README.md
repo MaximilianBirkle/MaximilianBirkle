@@ -1,7 +1,7 @@
 <h1 align="left">Hey, I'm Max 👋</h1>
 
 <p align="left">
-  Based in Mannheim, Germany 🇩🇪 — into data, politics, and figuring out how the two connect.
+  Based in Mannheim, Germany  — into data, politics, and figuring out how the two connect.
 </p>
 
 ### 🛠️ Tech Stack
@@ -19,16 +19,9 @@
 
 ### 🙋 About Me
 
-I'm a student who ended up somewhere between the social sciences and data science, and I like it there. Most of my time goes into digging through data, wrapping my head around statistics, and trying to connect that with bigger questions in politics, economics, and sustainability. Outside of that I'm working in product at a Mannheim-based company, still figuring things out one project at a time.
+I'm a student who ended up somewhere between the social sciences and data science, and I like it there. Most of my time goes into digging through data, wrapping my head around statistics, and trying to connect that with bigger questions in political science, economics, and even sustainability. Outside of that I'm working in product at a Mannheim-based startup, still figuring things out one project at a time. ;)
 
 Always up for a chat about data, causal inference, or why a chart is lying to you.
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaximilianBirkle&show_icons=true&theme=dark&hide_title=false" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximilianBirkle&layout=compact&theme=dark" alt="Top Languages" height="165"/>
-</p>
 
 ### 🌐 Connect
 
